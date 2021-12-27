@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397461695565",
+    "project_id": "tutorials-57bde",
+    "storage_bucket": "tutorials-57bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397461695565:android:433c029b56ef9d81ea4004",
+        "android_client_info": {
+          "package_name": "com.welcomekaran.tutorials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397461695565-jj2ta3apupbpj8j64a21sdi6il4mvd5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfpSf6hAtWAQ2eqF8biD4FDtbYJspyyx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397461695565-jj2ta3apupbpj8j64a21sdi6il4mvd5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
